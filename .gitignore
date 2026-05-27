@@ -1,0 +1,7 @@
+gan/
+
+gan2/saved_*
+gan2/data
+gan2/weights*
+
+不要
